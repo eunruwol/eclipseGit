@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-// 이클립스 git second commit
+// 이클립스 git second commits
 
 @WebServlet("/BasicServlet")
 public class BasicServlet extends HttpServlet {
